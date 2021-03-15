@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№1 (модули)\LABA1\LABA1\obj\Debug\LABA1.csprojAssemblyReference.cache
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№1 (модули)\LABA1\LABA1\obj\Debug\LABA1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№1 (модули)\LABA1\LABA1\bin\Debug\LABA1.exe.config
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№1 (модули)\LABA1\LABA1\bin\Debug\LABA1.exe
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№1 (модули)\LABA1\LABA1\bin\Debug\LABA1.pdb
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№1 (модули)\LABA1\LABA1\obj\Debug\LABA1.exe
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№1 (модули)\LABA1\LABA1\obj\Debug\LABA1.pdb
+D:\проектирование и архитектура программных систем\№1 (модули)\LABA1\LABA1\bin\Debug\LABA1.exe.config
+D:\проектирование и архитектура программных систем\№1 (модули)\LABA1\LABA1\bin\Debug\LABA1.exe
+D:\проектирование и архитектура программных систем\№1 (модули)\LABA1\LABA1\bin\Debug\LABA1.pdb
+D:\проектирование и архитектура программных систем\№1 (модули)\LABA1\LABA1\obj\Debug\LABA1.csprojAssemblyReference.cache
+D:\проектирование и архитектура программных систем\№1 (модули)\LABA1\LABA1\obj\Debug\LABA1.csproj.CoreCompileInputs.cache
+D:\проектирование и архитектура программных систем\№1 (модули)\LABA1\LABA1\obj\Debug\LABA1.exe
+D:\проектирование и архитектура программных систем\№1 (модули)\LABA1\LABA1\obj\Debug\LABA1.pdb

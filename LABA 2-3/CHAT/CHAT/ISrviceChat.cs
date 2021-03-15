@@ -9,7 +9,7 @@ namespace CHAT
 {
     // ПРИМЕЧАНИЕ. Команду "Переименовать" в меню "Рефакторинг" можно использовать для одновременного изменения имени интерфейса "ISrviceChat" в коде и файле конфигурации.
     [ServiceContract(CallbackContract = typeof(IServerChatCallback))]
-    public interface ISrviceChat
+    public interface ISrviceChat //Интерфейс сервиса
     {
         [OperationContract]
         int Connect(string name);

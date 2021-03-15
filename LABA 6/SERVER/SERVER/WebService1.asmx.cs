@@ -15,7 +15,7 @@ namespace SERVER
     // Чтобы разрешить вызывать веб-службу из скрипта с помощью ASP.NET AJAX, раскомментируйте следующую строку. 
     // [System.Web.Script.Services.ScriptService]
 
-    class REIS
+    class REIS //Класс для всех рейсов
     {
         public string id_town; // идентификатор
         public string town; // город назначения
@@ -29,11 +29,11 @@ namespace SERVER
             this.colvo = colvo;
         }
 
-        public void izmencolvo(int value)
+        public void izmencolvo(int value) //изменение после покупки билетов 
         {
             this.colvo = value;
         }
-        public int poluchncolvo()
+        public int poluchncolvo() //Получение числа оставшихся билетов
         {
             return colvo;
         }
@@ -41,17 +41,17 @@ namespace SERVER
 
     public class WebService1 : System.Web.Services.WebService
     {
-        REIS[] marshrut = { new REIS("1", "Orel", "14/03/2021 14:43", 10),
+        REIS[] marshrut = { new REIS("1", "Orel", "14/03/2021 14:43", 10), //Массив объектов
                             new REIS("2", "Moscow", "17/03/2021 15:21", 15),
                             new REIS("3", "Novgorod", "19/03/2021 10:12", 11),
                             new REIS("4", "Moscow", "20/03/2021 8:08", 20),
         };
         static int razmer = 4;
-        static int[] izm = new int[razmer];
-        string[] sbor = new string[razmer];
+        static int[] izm = new int[razmer]; //статический массив для изменения количества билетов
+        string[] sbor = new string[razmer]; //сбор ответов
         string otvet;
         [WebMethod]
-        public string ShowMarshrut()
+        public string ShowMarshrut() //Показать все маршруты
         {
             int temp = 0;
             for (int i = 0; i < marshrut.Length; i++)
@@ -72,7 +72,7 @@ namespace SERVER
         }
 
         [WebMethod]
-        public string CheckReis(string Reis)
+        public string CheckReis(string Reis) //Проверить рейс по городу назначения
         {
             int temp = 0;
             for (int i = 0; i < marshrut.Length; i++)
@@ -94,7 +94,7 @@ namespace SERVER
             return otvet;
         }
         [WebMethod]
-        public string Checkbilet(string Reis)
+        public string Checkbilet(string Reis) //Проверить город на количество оставшихся билетов
         {
             int temp = 0;
             for (int i = 0; i < marshrut.Length; i++)
@@ -118,7 +118,7 @@ namespace SERVER
             return otvet;
         }
         [WebMethod]
-        public string Zakazbilet(string id)
+        public string Zakazbilet(string id) //Заказать билет
         {
             string temp = "Заказ не удался, кончились билеты";
             for (int i = 0; i < marshrut.Length; i++)

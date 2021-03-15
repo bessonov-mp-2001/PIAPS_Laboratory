@@ -33,7 +33,7 @@ namespace ChatClient
         {
         }
 
-        void ConnectUser()
+        void ConnectUser() //Функция соединенния пользователя
         {
             if (!isConnected)
             {
@@ -45,7 +45,7 @@ namespace ChatClient
             }
         }
 
-        void DisconnectUser()
+        void DisconnectUser() //Функция разъединения пользователя
         {
             if (isConnected)
             {
@@ -57,7 +57,7 @@ namespace ChatClient
             }
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        private void Button_Click(object sender, RoutedEventArgs e) //Обработчик кнопки присоединения/разъединения 
         {
             if (isConnected)
             {
@@ -69,17 +69,17 @@ namespace ChatClient
             }
         }
 
-        public void MsgCallback(string msg)
+        public void MsgCallback(string msg) //Получить сообщение от сервера
         {
             lbChat.Items.Add(msg);
         }
 
-        private void Window_Closing(object sender, System.ComponentModel.CancelEventArgs e)
+        private void Window_Closing(object sender, System.ComponentModel.CancelEventArgs e) //обработчик внештатного выхода
         {
             DisconnectUser();
         }
 
-        private void Button_send(object sender, RoutedEventArgs e)
+        private void Button_send(object sender, RoutedEventArgs e) //функция отправки сообщения
         {
             if (client != null && tbMessage.Text!="")
             {

@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Windows.Forms;
-using Word = Microsoft.Office.Interop.Word;
+using Word = Microsoft.Office.Interop.Word; //Для работы с Word
 namespace LABA7
 {
     public partial class Form1 : Form
@@ -9,8 +9,8 @@ namespace LABA7
         {
             objpara1.Alignment = Word.WdParagraphAlignment.wdAlignParagraphCenter;
             objpara1.Range.Font.Name = "Times New Roman"; // имя шрифта
-            objpara1.Range.Font.Size = 14;
-            objpara1.Range.Paragraphs.Space1();
+            objpara1.Range.Font.Size = 14; //размер шрифта
+            objpara1.Range.Paragraphs.Space1(); //одинарный интервал
         }
         public Form1()
         {
@@ -19,9 +19,9 @@ namespace LABA7
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Word.Application objword = new Word.Application();
+            Word.Application objword = new Word.Application(); //Создание объекта для работы с Word
             objword.Visible = true;
-            objword.WindowState = Word.WdWindowState.wdWindowStateNormal;
+            objword.WindowState = Word.WdWindowState.wdWindowStateNormal; //Нормальное положение окна
 
             Word.Document objdoc = objword.Documents.Add();
             Word.Paragraph objpara1;
@@ -110,7 +110,7 @@ namespace LABA7
             objpara1 = objdoc.Paragraphs.Add();
             process(objpara1);
 
-            objdoc.SaveAs("D:\\MSDOC.docx");
+            objdoc.SaveAs("D:\\MSDOC.docx"); //Сохранить файл
             objdoc.Close();
             objword.Quit();
         }

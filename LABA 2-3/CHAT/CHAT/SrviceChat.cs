@@ -9,13 +9,13 @@ namespace CHAT
 {
     // ПРИМЕЧАНИЕ. Команду "Переименовать" в меню "Рефакторинг" можно использовать для одновременного изменения имени класса "SrviceChat" в коде и файле конфигурации.
 
-    [ServiceBehavior(InstanceContextMode = InstanceContextMode.Single)]
+    [ServiceBehavior(InstanceContextMode = InstanceContextMode.Single)] //Создается один сервис для всех клиентов
     public class SrviceChat : ISrviceChat
     {
-        List<ServerUser> users = new List<ServerUser>();
+        List<ServerUser> users = new List<ServerUser>(); //Список всех пользователей
         int nextId = 1;
 
-        public int Connect(string name)
+        public int Connect(string name) //Соединение с пользователем
         {
             ServerUser user = new ServerUser()
             {
@@ -30,7 +30,7 @@ namespace CHAT
             return user.ID;
         }
 
-        public void Disconnect(int id)
+        public void Disconnect(int id) //Разъединение 
         {
             var user = users.FirstOrDefault(i => i.ID == id);
             if (user != null)
@@ -40,18 +40,18 @@ namespace CHAT
             }
         }
 
-        public void SendMsg(string msg, int id)
+        public void SendMsg(string msg, int id) //Отправка сообщений
         {
             foreach(var item in users)
             {
                 string answer = DateTime.Now.ToShortTimeString();
-                var user = users.FirstOrDefault(i => i.ID == id);
+                var user = users.FirstOrDefault(i => i.ID == id); //Ищем переданный ID
                 if (user != null)
                 {
                     answer += ": " + user.Name + " ";
                 }
                 answer += msg;
-                item.operationContext.GetCallbackChannel<IServerChatCallback>().MsgCallback(answer);
+                item.operationContext.GetCallbackChannel<IServerChatCallback>().MsgCallback(answer); //Указываем, что это функция возврата
             }
         }
     }

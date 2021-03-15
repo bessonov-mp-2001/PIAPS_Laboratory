@@ -10,9 +10,9 @@ namespace ChatHost
     {
         static void Main(string[] args)
         {
-            using (var host = new ServiceHost(typeof(CHAT.SrviceChat)))
+            using (var host = new ServiceHost(typeof(CHAT.SrviceChat))) //Для освобождения ресурсов
             {
-                host.Open();
+                host.Open(); //Начало работы сервера
                 Console.WriteLine("Хост начал работу");
                 Console.ReadLine();
             }

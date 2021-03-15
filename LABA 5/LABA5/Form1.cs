@@ -1,4 +1,4 @@
-﻿//http://www.dneonline.com/calculator.asmx
+﻿//http://www.dneonline.com/calculator.asmx - сервис с калькулятором
 
 using System;
 using System.Windows.Forms;
@@ -13,24 +13,24 @@ namespace LABA5
         }
 
         Calc.CalculatorSoap client = new Calc.CalculatorSoapClient();
-        private void button1_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e) //Вызов функции сервиса "Сложение"
         {
             label2.Text = client.Add(int.Parse(textBox1.Text), int.Parse(textBox2.Text)).ToString();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            label2.Text = client.Divide(int.Parse(textBox1.Text), int.Parse(textBox2.Text)).ToString();
+            label2.Text = client.Divide(int.Parse(textBox1.Text), int.Parse(textBox2.Text)).ToString(); //Вызов функции сервиса "Деление"
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            label2.Text = client.Multiply(int.Parse(textBox1.Text), int.Parse(textBox2.Text)).ToString();
+            label2.Text = client.Multiply(int.Parse(textBox1.Text), int.Parse(textBox2.Text)).ToString(); //Вызов функции сервиса "Умножение"
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
-            label2.Text = client.Subtract(int.Parse(textBox1.Text), int.Parse(textBox2.Text)).ToString();
+            label2.Text = client.Subtract(int.Parse(textBox1.Text), int.Parse(textBox2.Text)).ToString(); //Вызов функции сервиса "Вычитание"
         }
     }
 }

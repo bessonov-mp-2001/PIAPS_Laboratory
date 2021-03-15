@@ -19,3 +19,14 @@ D:\проектирование и архитектура программных
 D:\проектирование и архитектура программных систем\№7\LABA7\LABA7\bin\Debug\LABA7.exe
 D:\проектирование и архитектура программных систем\№7\LABA7\LABA7\bin\Debug\LABA7.pdb
 D:\проектирование и архитектура программных систем\№7\LABA7\LABA7\obj\Debug\LABA7.csproj.ResolveComReference.cache
+D:\GIT\PIAPS_Laboratory\LABA 7\LABA7\bin\Debug\LABA7.exe.config
+D:\GIT\PIAPS_Laboratory\LABA 7\LABA7\bin\Debug\LABA7.exe
+D:\GIT\PIAPS_Laboratory\LABA 7\LABA7\bin\Debug\LABA7.pdb
+D:\GIT\PIAPS_Laboratory\LABA 7\LABA7\obj\Debug\LABA7.csprojAssemblyReference.cache
+D:\GIT\PIAPS_Laboratory\LABA 7\LABA7\obj\Debug\LABA7.csproj.ResolveComReference.cache
+D:\GIT\PIAPS_Laboratory\LABA 7\LABA7\obj\Debug\LABA7.Form1.resources
+D:\GIT\PIAPS_Laboratory\LABA 7\LABA7\obj\Debug\LABA7.Properties.Resources.resources
+D:\GIT\PIAPS_Laboratory\LABA 7\LABA7\obj\Debug\LABA7.csproj.GenerateResource.cache
+D:\GIT\PIAPS_Laboratory\LABA 7\LABA7\obj\Debug\LABA7.csproj.CoreCompileInputs.cache
+D:\GIT\PIAPS_Laboratory\LABA 7\LABA7\obj\Debug\LABA7.exe
+D:\GIT\PIAPS_Laboratory\LABA 7\LABA7\obj\Debug\LABA7.pdb

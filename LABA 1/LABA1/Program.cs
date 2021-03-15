@@ -6,11 +6,11 @@ namespace LABA1
     {
         static void Main(string[] args)
         {
-            Class1 fun1 = new Class1();
-            Class2 fun2 = new Class2();
-            Class3 fun3 = new Class3();
-            Class4 fun4 = new Class4();
-            Class5 fun5 = new Class5();
+            Class1 fun1 = new Class1(); //Вывод аргументов командной строки
+            Class2 fun2 = new Class2(); //Високосный год
+            Class3 fun3 = new Class3(); //Числа Фиббоначчи
+            Class4 fun4 = new Class4(); //Факториал числа
+            Class5 fun5 = new Class5(); //Решето Эратосфена
             string selection;
             do
             {

@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№5\LABA5\LABA5\bin\Debug\LABA5.exe.config
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№5\LABA5\LABA5\bin\Debug\LABA5.exe
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№5\LABA5\LABA5\bin\Debug\LABA5.pdb
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№5\LABA5\LABA5\obj\Debug\LABA5.csprojAssemblyReference.cache
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№5\LABA5\LABA5\obj\Debug\LABA5.Form1.resources
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№5\LABA5\LABA5\obj\Debug\LABA5.Properties.Resources.resources
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№5\LABA5\LABA5\obj\Debug\LABA5.csproj.GenerateResource.cache
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№5\LABA5\LABA5\obj\Debug\LABA5.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№5\LABA5\LABA5\obj\Debug\LABA5.exe
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№5\LABA5\LABA5\obj\Debug\LABA5.pdb

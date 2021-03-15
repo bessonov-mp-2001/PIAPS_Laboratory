@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№2-3\CHAT\CHAT\bin\Debug\CHAT.dll.config
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№2-3\CHAT\CHAT\bin\Debug\CHAT.dll
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№2-3\CHAT\CHAT\bin\Debug\CHAT.pdb
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№2-3\CHAT\CHAT\obj\Debug\CHAT.csprojAssemblyReference.cache
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№2-3\CHAT\CHAT\obj\Debug\CHAT.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№2-3\CHAT\CHAT\obj\Debug\CHAT.dll
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№2-3\CHAT\CHAT\obj\Debug\CHAT.pdb

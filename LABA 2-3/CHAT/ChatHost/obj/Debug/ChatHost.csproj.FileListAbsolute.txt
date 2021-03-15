@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№2-3\CHAT\ChatHost\bin\Debug\ChatHost.exe.config
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№2-3\CHAT\ChatHost\bin\Debug\ChatHost.exe
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№2-3\CHAT\ChatHost\bin\Debug\ChatHost.pdb
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№2-3\CHAT\ChatHost\bin\Debug\CHAT.dll
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№2-3\CHAT\ChatHost\bin\Debug\CHAT.pdb
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№2-3\CHAT\ChatHost\bin\Debug\CHAT.dll.config
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№2-3\CHAT\ChatHost\obj\Debug\ChatHost.csprojAssemblyReference.cache
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№2-3\CHAT\ChatHost\obj\Debug\ChatHost.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№2-3\CHAT\ChatHost\obj\Debug\ChatHost.csproj.CopyComplete
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№2-3\CHAT\ChatHost\obj\Debug\ChatHost.exe
+C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№2-3\CHAT\ChatHost\obj\Debug\ChatHost.pdb

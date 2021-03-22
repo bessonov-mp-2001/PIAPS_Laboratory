@@ -1,18 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Runtime.Serialization;
-using System.ServiceModel;
-using System.Text;
+﻿using System.ServiceModel;
 
 namespace CHAT
 {
     // ПРИМЕЧАНИЕ. Команду "Переименовать" в меню "Рефакторинг" можно использовать для одновременного изменения имени интерфейса "ISrviceChat" в коде и файле конфигурации.
     [ServiceContract(CallbackContract = typeof(IServerChatCallback))]
-    public interface ISrviceChat //Интерфейс сервиса
+    public interface ISrviceChat //Интерфейс сервиса с функциями соединения, разъединения, отправки сообщения и обратной связи
     {
         [OperationContract]
-        int Connect(string name);
+        int Connect(string name); 
 
         [OperationContract]
         void Disconnect(int id);

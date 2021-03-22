@@ -17,7 +17,7 @@ namespace XMLRPCServer
         }
 
         [XmlRpcExposed]
-        public ArrayList Matrix(ArrayList arr, int size)
+        public ArrayList Matrix(ArrayList arr, int size)//функция для обработки матрицы
         {
             int min = (int)arr[0];
             int i, j;

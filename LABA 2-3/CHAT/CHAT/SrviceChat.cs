@@ -9,13 +9,13 @@ namespace CHAT
 {
     // ПРИМЕЧАНИЕ. Команду "Переименовать" в меню "Рефакторинг" можно использовать для одновременного изменения имени класса "SrviceChat" в коде и файле конфигурации.
 
-    [ServiceBehavior(InstanceContextMode = InstanceContextMode.Single)] //Создается один сервис для всех клиентов
+    [ServiceBehavior(InstanceContextMode = InstanceContextMode.Single)]
     public class SrviceChat : ISrviceChat
     {
-        List<ServerUser> users = new List<ServerUser>(); //Список всех пользователей
+        List<ServerUser> users = new List<ServerUser>();
         int nextId = 1;
 
-        public int Connect(string name) //Соединение с пользователем
+        public int Connect(string name)
         {
             ServerUser user = new ServerUser()
             {
@@ -25,33 +25,36 @@ namespace CHAT
             };
             nextId++;
 
-            SendMsg(": "+user.Name + " подключился",0);
+            SendMsg(": " + user.Name + " подключился", 0);
+            Console.WriteLine(user.Name + " подключился");
             users.Add(user);
             return user.ID;
         }
 
-        public void Disconnect(int id) //Разъединение 
+        public void Disconnect(int id)
         {
             var user = users.FirstOrDefault(i => i.ID == id);
             if (user != null)
             {
                 users.Remove(user);
-                SendMsg(": " + user.Name + " отключился",0);
+                SendMsg(": " + user.Name + " отключился", 0);
+                Console.WriteLine(user.Name + " отключился");
             }
         }
 
-        public void SendMsg(string msg, int id) //Отправка сообщений
+        public void SendMsg(string msg, int id)
         {
-            foreach(var item in users)
+            foreach (var item in users)
             {
                 string answer = DateTime.Now.ToShortTimeString();
-                var user = users.FirstOrDefault(i => i.ID == id); //Ищем переданный ID
+                var user = users.FirstOrDefault(i => i.ID == id);
                 if (user != null)
                 {
                     answer += ": " + user.Name + " ";
                 }
                 answer += msg;
-                item.operationContext.GetCallbackChannel<IServerChatCallback>().MsgCallback(answer); //Указываем, что это функция возврата
+                Console.WriteLine(answer);
+                item.operationContext.GetCallbackChannel<IServerChatCallback>().MsgCallback(answer);
             }
         }
     }

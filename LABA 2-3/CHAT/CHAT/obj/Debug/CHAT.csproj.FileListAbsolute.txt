@@ -5,3 +5,10 @@ C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование �
 C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№2-3\CHAT\CHAT\obj\Debug\CHAT.csproj.CoreCompileInputs.cache
 C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№2-3\CHAT\CHAT\obj\Debug\CHAT.dll
 C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№2-3\CHAT\CHAT\obj\Debug\CHAT.pdb
+D:\GIT\PIAPS_Laboratory\LABA 2-3\CHAT\CHAT\bin\Debug\CHAT.dll.config
+D:\GIT\PIAPS_Laboratory\LABA 2-3\CHAT\CHAT\bin\Debug\CHAT.dll
+D:\GIT\PIAPS_Laboratory\LABA 2-3\CHAT\CHAT\bin\Debug\CHAT.pdb
+D:\GIT\PIAPS_Laboratory\LABA 2-3\CHAT\CHAT\obj\Debug\CHAT.csprojAssemblyReference.cache
+D:\GIT\PIAPS_Laboratory\LABA 2-3\CHAT\CHAT\obj\Debug\CHAT.csproj.CoreCompileInputs.cache
+D:\GIT\PIAPS_Laboratory\LABA 2-3\CHAT\CHAT\obj\Debug\CHAT.dll
+D:\GIT\PIAPS_Laboratory\LABA 2-3\CHAT\CHAT\obj\Debug\CHAT.pdb

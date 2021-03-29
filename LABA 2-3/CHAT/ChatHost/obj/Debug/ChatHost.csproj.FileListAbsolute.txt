@@ -9,3 +9,14 @@ C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование �
 C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№2-3\CHAT\ChatHost\obj\Debug\ChatHost.csproj.CopyComplete
 C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№2-3\CHAT\ChatHost\obj\Debug\ChatHost.exe
 C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№2-3\CHAT\ChatHost\obj\Debug\ChatHost.pdb
+D:\GIT\PIAPS_Laboratory\LABA 2-3\CHAT\ChatHost\bin\Debug\ChatHost.exe.config
+D:\GIT\PIAPS_Laboratory\LABA 2-3\CHAT\ChatHost\bin\Debug\ChatHost.exe
+D:\GIT\PIAPS_Laboratory\LABA 2-3\CHAT\ChatHost\bin\Debug\ChatHost.pdb
+D:\GIT\PIAPS_Laboratory\LABA 2-3\CHAT\ChatHost\bin\Debug\CHAT.dll
+D:\GIT\PIAPS_Laboratory\LABA 2-3\CHAT\ChatHost\bin\Debug\CHAT.pdb
+D:\GIT\PIAPS_Laboratory\LABA 2-3\CHAT\ChatHost\bin\Debug\CHAT.dll.config
+D:\GIT\PIAPS_Laboratory\LABA 2-3\CHAT\ChatHost\obj\Debug\ChatHost.csprojAssemblyReference.cache
+D:\GIT\PIAPS_Laboratory\LABA 2-3\CHAT\ChatHost\obj\Debug\ChatHost.csproj.CoreCompileInputs.cache
+D:\GIT\PIAPS_Laboratory\LABA 2-3\CHAT\ChatHost\obj\Debug\ChatHost.csproj.CopyComplete
+D:\GIT\PIAPS_Laboratory\LABA 2-3\CHAT\ChatHost\obj\Debug\ChatHost.exe
+D:\GIT\PIAPS_Laboratory\LABA 2-3\CHAT\ChatHost\obj\Debug\ChatHost.pdb

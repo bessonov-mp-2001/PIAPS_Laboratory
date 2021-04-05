@@ -17,7 +17,7 @@ namespace XMLRPCServer
         }
 
         [XmlRpcExposed]
-        public ArrayList Matrix(ArrayList arr, int size)//функция для обработки матрицы
+        public ArrayList Matrix(ArrayList arr, int size)
         {
             int min = (int)arr[0];
             int i, j;
@@ -44,7 +44,7 @@ namespace XMLRPCServer
                     arr[a + b * size] = 0;
                     a += 1;
                     b += 1;
-                } while ((a + b * size) % size != 0);
+                } while ((a + b * size) < size * size);
             }
             else
             {
@@ -55,7 +55,7 @@ namespace XMLRPCServer
                     arr[a + b * size] = 0;
                     a += 1;
                     b += 1;
-                } while (a != size);
+                } while ((a + b * size) < size*size);
             }
             bool flag = false;
             for (int k = size - 1; k > 0; k--) //Возведение в квадрат элементов ниже необходимой диагонали с левого нижнего угда

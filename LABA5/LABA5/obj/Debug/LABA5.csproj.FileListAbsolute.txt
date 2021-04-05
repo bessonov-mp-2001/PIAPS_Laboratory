@@ -8,3 +8,13 @@ C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование �
 C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№5\LABA5\LABA5\obj\Debug\LABA5.csproj.CoreCompileInputs.cache
 C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№5\LABA5\LABA5\obj\Debug\LABA5.exe
 C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№5\LABA5\LABA5\obj\Debug\LABA5.pdb
+D:\ПИАПС\№5 — копия\LABA5\LABA5\bin\Debug\LABA5.exe.config
+D:\ПИАПС\№5 — копия\LABA5\LABA5\bin\Debug\LABA5.exe
+D:\ПИАПС\№5 — копия\LABA5\LABA5\bin\Debug\LABA5.pdb
+D:\ПИАПС\№5 — копия\LABA5\LABA5\obj\Debug\LABA5.csprojAssemblyReference.cache
+D:\ПИАПС\№5 — копия\LABA5\LABA5\obj\Debug\LABA5.Form1.resources
+D:\ПИАПС\№5 — копия\LABA5\LABA5\obj\Debug\LABA5.Properties.Resources.resources
+D:\ПИАПС\№5 — копия\LABA5\LABA5\obj\Debug\LABA5.csproj.GenerateResource.cache
+D:\ПИАПС\№5 — копия\LABA5\LABA5\obj\Debug\LABA5.csproj.CoreCompileInputs.cache
+D:\ПИАПС\№5 — копия\LABA5\LABA5\obj\Debug\LABA5.exe
+D:\ПИАПС\№5 — копия\LABA5\LABA5\obj\Debug\LABA5.pdb

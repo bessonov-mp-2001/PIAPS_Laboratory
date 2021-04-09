@@ -18,3 +18,13 @@ C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование �
 C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№6_!\CLIENT\CLIENT\obj\Debug\CLIENT.csproj.CoreCompileInputs.cache
 C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№6_!\CLIENT\CLIENT\obj\Debug\CLIENT.exe
 C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№6_!\CLIENT\CLIENT\obj\Debug\CLIENT.pdb
+D:\ПИАПС\№6\CLIENT\CLIENT\bin\Debug\CLIENT.exe.config
+D:\ПИАПС\№6\CLIENT\CLIENT\bin\Debug\CLIENT.exe
+D:\ПИАПС\№6\CLIENT\CLIENT\bin\Debug\CLIENT.pdb
+D:\ПИАПС\№6\CLIENT\CLIENT\obj\Debug\CLIENT.csprojAssemblyReference.cache
+D:\ПИАПС\№6\CLIENT\CLIENT\obj\Debug\CLIENT.Form1.resources
+D:\ПИАПС\№6\CLIENT\CLIENT\obj\Debug\CLIENT.Properties.Resources.resources
+D:\ПИАПС\№6\CLIENT\CLIENT\obj\Debug\CLIENT.csproj.GenerateResource.cache
+D:\ПИАПС\№6\CLIENT\CLIENT\obj\Debug\CLIENT.csproj.CoreCompileInputs.cache
+D:\ПИАПС\№6\CLIENT\CLIENT\obj\Debug\CLIENT.exe
+D:\ПИАПС\№6\CLIENT\CLIENT\obj\Debug\CLIENT.pdb

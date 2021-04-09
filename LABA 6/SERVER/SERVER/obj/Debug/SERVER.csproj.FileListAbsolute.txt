@@ -19,10 +19,10 @@ D:\проектирование и архитектура программных
 D:\проектирование и архитектура программных систем\№6\SERVER\SERVER\obj\Debug\SERVER.csproj.CoreCompileInputs.cache
 D:\проектирование и архитектура программных систем\№6\SERVER\SERVER\obj\Debug\SERVER.dll
 D:\проектирование и архитектура программных систем\№6\SERVER\SERVER\obj\Debug\SERVER.pdb
-D:\GIT\PIAPS_Laboratory\LABA 6\SERVER\SERVER\bin\SERVER.dll.config
-D:\GIT\PIAPS_Laboratory\LABA 6\SERVER\SERVER\bin\SERVER.dll
-D:\GIT\PIAPS_Laboratory\LABA 6\SERVER\SERVER\bin\SERVER.pdb
-D:\GIT\PIAPS_Laboratory\LABA 6\SERVER\SERVER\obj\Debug\SERVER.csprojAssemblyReference.cache
-D:\GIT\PIAPS_Laboratory\LABA 6\SERVER\SERVER\obj\Debug\SERVER.csproj.CoreCompileInputs.cache
-D:\GIT\PIAPS_Laboratory\LABA 6\SERVER\SERVER\obj\Debug\SERVER.dll
-D:\GIT\PIAPS_Laboratory\LABA 6\SERVER\SERVER\obj\Debug\SERVER.pdb
+D:\ПИАПС\№6\SERVER\SERVER\bin\SERVER.dll.config
+D:\ПИАПС\№6\SERVER\SERVER\bin\SERVER.dll
+D:\ПИАПС\№6\SERVER\SERVER\bin\SERVER.pdb
+D:\ПИАПС\№6\SERVER\SERVER\obj\Debug\SERVER.csprojAssemblyReference.cache
+D:\ПИАПС\№6\SERVER\SERVER\obj\Debug\SERVER.csproj.CoreCompileInputs.cache
+D:\ПИАПС\№6\SERVER\SERVER\obj\Debug\SERVER.dll
+D:\ПИАПС\№6\SERVER\SERVER\obj\Debug\SERVER.pdb

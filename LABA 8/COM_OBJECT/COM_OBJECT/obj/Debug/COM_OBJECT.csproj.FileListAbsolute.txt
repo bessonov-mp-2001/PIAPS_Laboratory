@@ -1,6 +1,5 @@
 C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№8\COM_OBJECT\COM_OBJECT\bin\Debug\COM_OBJECT.dll
 C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№8\COM_OBJECT\COM_OBJECT\bin\Debug\COM_OBJECT.pdb
-C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№8\COM_OBJECT\COM_OBJECT\obj\Debug\COM_OBJECT.csprojAssemblyReference.cache
 C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№8\COM_OBJECT\COM_OBJECT\obj\Debug\COM_OBJECT.csproj.CoreCompileInputs.cache
 C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№8\COM_OBJECT\COM_OBJECT\obj\Debug\COM_OBJECT.dll
 C:\Users\user\Desktop\IDE\яяя\4 семестр\проектирование и архитектура программных систем\№8\COM_OBJECT\COM_OBJECT\obj\Debug\COM_OBJECT.pdb
